@@ -23,3 +23,5 @@ pest disease detection of Brassica chinensis.*
 + Objects with high density
 + Motion blur
 
+## Results
+ 
