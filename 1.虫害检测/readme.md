@@ -4,10 +4,6 @@ through UAV-imagery and deep learning**.
 
 Code is under preparation, please be patient.
 
-## 技术难点
-+ 
-
-
 > **Abstract:** *Pest disease is considered to be among the greatestthreats to Brassica chinensis. The 
 physical invasion caused by pests will form wormholes, which seriously affect the yield and quality of 
 Brassica chinensis. Timely and effective detection is important for modern facility agriculture. To 
@@ -22,4 +18,8 @@ annotations. Extensive comparative experimental results show that the detection 
 superior to the existing detection methods. And we achieved an overall accuracy of 87.2% AP50 and 94.7% R-squared for
 pest disease detection of Brassica chinensis.*  
 
+## Main problems 
++ Object scale varies violently
++ Objects with high density
++ Motion blur
 
