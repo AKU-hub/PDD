@@ -14,9 +14,6 @@
 
 **详细方案:** 见[虫害检测](./1.虫害检测/)
 
+**成果:** 投稿SCI论文一篇
 
-This is the official implementation of the paper **Pest disease detection of Brassica chinensis
-through UAV-imagery and deep learning**.
-
-Code is under preparation, please be patient.
 
