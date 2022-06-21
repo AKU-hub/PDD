@@ -12,7 +12,7 @@
 
 **技术栈:** 目标检测
 
-**详细方案:** 见[虫害检测](./1.虫害检测/)
+**详细方案:** 见[虫害检测]()
 
 
 This is the official implementation of the paper **Pest disease detection of Brassica chinensis
