@@ -25,12 +25,12 @@ pest disease detection of Brassica chinensis.*
 
 ## Results
 
-### Wormhole detection task
+#### Wormhole detection task
 
 | Model     |  AP(%) | AP50(%) | AP75(%)| Running Time(s)|
 |-----------|--------|---------|--------|----------------|
 | CenterNet |  45.1  |   80.7  |  44.1  |   0.071        |
-| **Ours**  |**48.4**| **87.2**|**48.4**| **0.079**|
+| **Ours**  |**48.4**| **87.2**|**48.4**| 0.079|
 
 | Conf-thresh| Precision| Recall| F1-score| TP | FP | FN |
 |------------|----------|-------|---------|----|----|----|
@@ -42,7 +42,7 @@ pest disease detection of Brassica chinensis.*
 |0.50 |93.4 |71.1| 80.7 |5673| 396 |2310|
 |0.55 |95.6| 56.9| 71.3| 4541 |211 |3442|
 
-### Wormhole counting task
+#### Wormhole counting task
 | Conf-thresh| RMSE| MAE| MAPE (%)| R-squared(%) |
 |------------|-----|----|---------|--------------|
 | 0.25 |12.91 |10.54 |50.8 |58.2|
@@ -53,7 +53,7 @@ pest disease detection of Brassica chinensis.*
 |0.50 |9.69 |6.77 |23.9 |76.5|
 |0.55| 14.87 |11.34 |39.8 |44.6|
 
- ### Comparative Analysis with Other Methods
+ #### Comparative Analysis with Other Methods
  | Model     |  AP(%) | AP50(%) | AP75(%)| Running Time(s)|
 |-----------|--------|---------|--------|----------------|
 | DETR |21.3 |59.4| 8.7 |0.280|
@@ -61,7 +61,7 @@ pest disease detection of Brassica chinensis.*
 |YOLOX |40.8| 80.7 |36.2 |0.024|
 |CenterNet2 |43.3| 84.0| 37.5 |0.187|
 |CenterNet |45.1 |80.7| 41.9 |0.071|
-|**Ours**| **48.4**|**87.2**| **48.4**| **0.075**|
+|**Ours**| **48.4**|**87.2**| **48.4**|0.075|
  
 |Model| Conf-thresh| RMSE| MAE| MAPE (%)| R-squared(%) |
 |-----|------------|-----|----|---------|--------------|
@@ -72,8 +72,8 @@ pest disease detection of Brassica chinensis.*
 |CenterNet| 0.40 |5.29 |3.59| 16.6 |93.0|
 |**Ours**|**0.40**|**4.58**|**3.10**|**14.6**|**94.7**|
  
- 
- 
+#### Visualized results
+![visualized](./figs/visualized.png) 
  
  
  
