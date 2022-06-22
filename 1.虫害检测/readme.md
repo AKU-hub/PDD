@@ -30,7 +30,7 @@ pest disease detection of Brassica chinensis.*
 | Model     |  AP(%) | AP50(%) | AP75(%)| Running Time(s)|
 |-----------|--------|---------|--------|----------------|
 | CenterNet |  45.1  |   80.7  |  44.1  |   0.071        |
-| Ours      |  48.4  |   87.2  |  48.4  |   0.079        |
+| **Ours**  |  48.4  |   87.2  |  48.4  |   0.079        |
 
 | Conf-thresh| Precision| Recall| F1-score| TP | FP | FN |
 |------------|----------|-------|---------|----|----|----|
@@ -61,7 +61,7 @@ pest disease detection of Brassica chinensis.*
 |YOLOX |40.8| 80.7 |36.2 |0.024|
 |CenterNet2 |43.3| 84.0| 37.5 |0.187|
 |CenterNet |45.1 |80.7| 41.9 |0.071|
-|Ours| 48.4 |87.2| 48.4| 0.075|
+|**Ours**| 48.4 |87.2| 48.4| 0.075|
  
 |Model| Conf-thresh| RMSE| MAE| MAPE (%)| R-squared(%) |
 |-----|------------|-----|----|---------|--------------|
@@ -70,7 +70,7 @@ pest disease detection of Brassica chinensis.*
 |YOLOX |0.25 |7.64 |4.67 |18.9 |85.4|
 |CenterNet2| 0.55 |5.38| 3.64| 16.6 |92.7|
 |CenterNet| 0.40 |5.29 |3.59| 16.6 |93.0|
-|Ours| 0.40 |4.58| 3.10| 14.6| 94.7|
+|**Ours**| 0.40 |4.58| 3.10| 14.6| 94.7|
  
  
  
